@@ -1,43 +1,20 @@
 # GitCaseStudy
 TKH Exam
-HEADER 1 Project Title
+New User Dashboard 
 
-BLOCKQUOTE A short description about the project and/or client.
+Overview
+The New User Dashboard is a sleek, intuitive, and unnecessarily over-engineered UI for users who just want to check their stats, feel seen, and maybe change a password every now and then. This project exists because someone said, "We need a dashboard," and nobody asked questions.
 
-HEADER 2 Getting Started
-
-PARAGRAPH These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-HEADER 3 Prerequisites
-
-PARAGRAPH The things you need before installing the software.
-
-BULLET POINT You need this
-BULLET POINT And you need this
-BULLET POINT Oh, and don't forget this
-
-HEADER 3 Installation
-
-PARAGRAPH A step by step guide that will tell you how to get the development environment up and running.
-
-```
-$ First step
-$ Another step
-$ Final step
-```
-
-HEADER 2 Usage
-
-A few examples of useful commands and/or tasks.
-
-```
-$ First example
-$ Second example
-$ And keep this in mind
-```
-HEADER 3 Branches
-
-* Main:
-* Feature:
-* Bugfix:
-* etc...
+🎯 Features
+🔐 Secure(ish) login
+🧍 Personalized user greeting (Hi, [insert name we definitely spelled right])
+📊 Dashboard metrics nobody really understands
+🎨 Dark mode toggle for ✨aesthetic✨ reasons
+🛠️ Settings panel with buttons that may or may not work
+🧪 Built with 12% actual code, 88% Google searches
+📦 Tech Stack
+React (because it's 2025 and we’re not animals)
+Tailwind CSS (because we hate writing CSS)
+Redux (even though we only needed useState)
+Firebase (for auth, because why not)
+Chart.js (to make data look cool)
